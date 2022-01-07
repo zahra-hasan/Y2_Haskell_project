@@ -2,9 +2,9 @@
 This is a project for COM2108 functional programming course that was written in Haskell.
 the project objective was to build an auto-solve programm in Haskell for the game 8-of-solitaire.
 the process was:
-  1- design the game fully using tables and diagrams while writing the report
-  2- start implementing the design in Haskell using vscode
-  3- modify and improve design while testing the code and make changes where needed
+  1- design the game fully using tables and diagrams while writing the report.
+  2- start implementing the design in Haskell using vscode.
+  3- modify and improve design while testing the code and make changes where needed.
 the result:
 the resulting programm functions partially, it can auto-solve many games but for some, it will enter infinit loops depending on the intial random seed it was given to start the game. 
 Hopefully I will debug and correct the solution in the future at my own time. 

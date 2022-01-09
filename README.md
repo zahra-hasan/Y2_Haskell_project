@@ -9,7 +9,7 @@ the process was:
   3- modify and improve design while testing the code and make changes where needed.  
 # The final result
 The resulting programm functions partially, it can auto-solve many games but for some, it will enter infinite loops depending on the initial random seed it was given to start the game.   
-Hopefully I will debug and correct the solution in the future at my own time. 
+Hopefully I will debug and correct the solution in the future in my own time. 
 # What I have learned
 Haskell is a very fun programming language that offered me a new experience different from using OO languages such as Java.  
 Writing the design and brainstorming before implementing anything is key to good results.  

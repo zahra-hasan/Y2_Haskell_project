@@ -14,8 +14,7 @@ Hopefully I will debug and correct the solution in the future in my own time.
 Haskell is a very fun programming language that offered me a new experience different from using OO languages such as Java.  
 Writing the design and brainstorming before implementing anything is key to good results.  
 I learned that I'm a person who likes to be self-taught and enjoy the process of learning new things and getting good at it!.  
-# Mark
-to be marked.
+
 
 
 

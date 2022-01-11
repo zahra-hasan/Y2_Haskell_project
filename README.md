@@ -1,5 +1,5 @@
 # Haskell_project
-This is a project for the COM2108 functional programming course that was written in Haskell.
+This is a project for the functional programming course that was written in Haskell.
 # The Project objective
 The project objective was to build an auto-solve program in Haskell for the game 8-of-solitaire.  
 # The development process
